@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **C#, .NET, ASP.NET**
 
-- 👨‍💻 All of my projects are available at [kammivehchi.com](kammivehchi.com)
+- 👨‍💻 All of my projects are available at [kammivehchi.com](https://kammivehchi.com)
 
 - 💬 Ask me about **React, JavaScript, SQL, NoSQL**
 
