@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#, .NET, ASP.NET, Next.js**
 
-- 🤝 I’m looking for help with **C#, .NET, ASP.NET**
+- 🤝 I’m looking for help with **React Projects, C#, .NET, ASP.NET**
 
 - 👨‍💻 All of my projects are available at [kammivehchi.com](https://www.kamyarmivehchi.com)
 
