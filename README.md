@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BC5Gcj3-1SJH2kzLiDQ72i9HQhVhiWt5/view?usp=sharing](https://drive.google.com/file/d/1BC5Gcj3-1SJH2kzLiDQ72i9HQhVhiWt5/view?usp=sharing)
 
-- ⚡ Fun fact **I'm a gamer/Call of Duty Fanboy**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
