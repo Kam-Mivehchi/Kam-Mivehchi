@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Master List](https://github.com/Kam-Mivehchi/bucket-list)
 
-- 🌱 I’m currently learning **C#, .NET, ASP.NET, Next.js**
+- 🌱 I’m currently learning **C#, .NET,TypeScript, Next.js**
 
 - 🤝 I’m looking for help with **React Projects, C#, .NET, ASP.NET**
 
